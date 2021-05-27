@@ -4,10 +4,11 @@
 }
 
 img{
-    display: inline-block;
+    display: block;
     border-radius: 10px;
     border: solid 1px;
     width: 250px;
     height: 200px;
-    
+    background-color: bisque;
+
 }
